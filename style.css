@@ -1,3 +1,9 @@
 #first-row {
-    background-color: rgb(188, 205, 212);
+  background-color: rgb(188, 205, 212);
+}
+body {
+  background-color: #708090;
+}
+#resPic {
+  border-radius: 10px;
 }
